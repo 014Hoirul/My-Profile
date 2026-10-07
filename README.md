@@ -8,9 +8,9 @@ Saya Hoirul Umam, mahasiswa Teknik Informatika di Universitas Madura. Selama men
 yang berkaitan dengan pemrograman dan mulai mencoba menerapkannya melalui tugas maupun proyek sederhana.
 
 ## Data Diri
-Nama: Hoirul Umam
-NIM: 2024520014
-Program Studi: Teknik Informatika
-Perguruan Tinggi: Universitas Madura
+- **Nama:** Hoirul Umam
+- **NIM:** 2024520014
+- **Program Studi:** Teknik Informatika
+- **Perguruan Tinggi:** Universitas Madura
 
 ## Video Praktikum
